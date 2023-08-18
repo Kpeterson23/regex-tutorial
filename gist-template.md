@@ -57,4 +57,6 @@ No character escapes are used in this regex pattern.
 
 ## Author
 
-This information about this email expressions was authored by <a href= 'https://github.com/Kpeterson23'>
+My name is Kyler Peterson and an aspiring developer in someway. I enjoy learning programming, reading, and volleyball.
+Below is a link to my GitHub Profile:
+https://github.com/Kpeterson23
